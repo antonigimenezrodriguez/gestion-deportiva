@@ -1,3 +1,4 @@
+using gestionDeportivaBack.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace gestionDeportivaBack.Controllers
