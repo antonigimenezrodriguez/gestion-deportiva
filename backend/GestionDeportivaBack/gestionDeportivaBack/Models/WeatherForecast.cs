@@ -1,4 +1,4 @@
-namespace gestionDeportivaBack
+namespace gestionDeportivaBack.Models
 {
     public class WeatherForecast
     {
